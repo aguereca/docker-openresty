@@ -61,6 +61,7 @@ RUN \
         make \
         perl \
         perl-ExtUtils-Embed \
+        perl-Digest-MD5 \
         readline-devel \
         unzip \
         zlib-devel \
